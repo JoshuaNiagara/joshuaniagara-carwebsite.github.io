@@ -296,7 +296,7 @@ select {
 
 @media only screen
 	and (min-device-width: 390px)
-	and (max-device-width: 440px) {
+	and (max-device-width: 449px) {
 	.login {
 		width: 100%;
 	}
